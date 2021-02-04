@@ -1,5 +1,6 @@
 # ES97EBioGaitAnalysis
 Code repository for Gait Analysis graphs
+Code generated using MATLAB v.2020b
 
 The workspace file contains all the necessary variables and datasets pre-assigned, and the matlab file will not work without them.
 
